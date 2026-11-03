@@ -1,1 +1,2 @@
 Ini isi file1
+Ini di edit di GitHub
