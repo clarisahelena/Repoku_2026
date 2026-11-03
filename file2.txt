@@ -1,1 +1,2 @@
 Ini isi file2
+Ini diedit di GitHub
